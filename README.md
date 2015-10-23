@@ -1,4 +1,4 @@
-# _The 99 Bottles of Beercode Challenge (Behavior Driven Development)_
+# _The 99 Bottles of Beer Code Challenge (Behavior Driven Development)_
 
 ##### _Goal: See objective on [assignment](https://www.learnhowtoprogram.com/lessons/javascript-bdd-code-review) page for more details._
 
