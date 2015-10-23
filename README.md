@@ -6,7 +6,7 @@
 
 ## Setup
 
-1. Download and open the Spec html file which utilizes Mocha and Chai javascript testing
+1. Download & unzip project, open spec-runner.html
 
 ### Legal
 
