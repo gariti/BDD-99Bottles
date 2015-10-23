@@ -1,4 +1,4 @@
-function bottlesOfBeer(numOfBottles) {
+function bottlesOfBeerSong(numOfBottles) {
   var lyrics = "";
   var s = "s";
 
