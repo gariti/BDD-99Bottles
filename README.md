@@ -6,7 +6,8 @@
 
 ## Setup
 
-1. Download & unzip project, open spec-runner.html
+1. Download & unzip project
+2. Open spec-runner.html
 
 ### Legal
 
